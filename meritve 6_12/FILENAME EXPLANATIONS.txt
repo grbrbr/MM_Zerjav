@@ -1,0 +1,27 @@
+
+
+VZBUJANJA S STOPNICO
+<smer>_A<amplituda>_T<casStopnice>_t<casSimulacije>.mat
+
+plus_A3_T1p2_t15.mat
+- plus smer
+- A = 3V
+- Tstopnice = 1.2s
+- Tsimulacije = 15s
+
+
+VZBUJANJA Z RAMPO
+ramp_<smer>_slope_<predznakNaklona><naklon>_T<casRampe>_t<casSimulacije>.mat
+
+ramp_minus_slope_m2_T2_t15.mat
+- rampa z naklonom -2
+- Trampe = 2s
+- Tsimulacije = 15s
+
+VZBUJANJE Z VLAKOM PULZOV
+<predznak><amplituda>_..._T<interval>_t<casSimulacije>.mat
+
+p5_m5_p5_m5_T0p5_t15.mat
+- vlak pulzov amplitud: 5,-5,5,-5
+- vsak je trajal 0.5s
+- Tsimulacije = 15s
