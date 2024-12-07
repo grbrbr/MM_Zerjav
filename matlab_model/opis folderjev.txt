@@ -1,0 +1,13 @@
+
+model1
+- kar smo delali na vajah 29.11
+
+model2
+- lin model iz pdfja
+- v matlabu
+- že primerja z meritvami
+
+
+model3
+- lin model iz pdfja
+- v matlabu in simulinku
